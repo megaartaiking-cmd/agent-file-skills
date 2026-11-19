@@ -1,0 +1,5 @@
+Sample file for agent-file-skills.
+Copy this file into a test folder, then try:
+  filetool.py duplicates <folder>
+  filetool.py organize <folder>
+  filetool.py rename <folder> "doc_{n:02d}.{ext}"
